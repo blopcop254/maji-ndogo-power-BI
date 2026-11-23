@@ -1,0 +1,7 @@
+# Power BI temp and cache files
+*.pbi.tmp
+.pbi/
+*.pbix.bak
+# OS files
+.DS_Store
+Thumbs.db
