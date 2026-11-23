@@ -1,6 +1,6 @@
 # Maji Ndogo Water: Power BI Project
 
-<img src="screenshots/logo.png" alt="Maji Ndogo Water logo" width="420">
+<img src="Maji%20Ndogo%20Water%20logo.png" alt="Maji Ndogo Water logo" width="420">
 
 A three-stage Power BI project built during the **ALX Data Analytics Program**. It follows the fictional country of Maji Ndogo from a national water survey, through to tracking where its water improvement funds went and whether the money made a difference.
 
@@ -46,9 +46,9 @@ A three-stage Power BI project built during the **ALX Data Analytics Program**. 
 - **Analysis**: separating what is driving cost from what is already budgeted for, and comparing vendors like for like
 
 ## Screenshots
-<!-- Replace with your own images in the screenshots folder -->
-![Final dashboard](screenshots/final_dashboard.png)
-![Vendor analysis](screenshots/final_vendor_analysis.png)
+
+![Final dashboard](Final%20dashboard.png)
+![Vendor analysis](Vendor%20analysis.png)
 
 ## How to open
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
