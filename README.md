@@ -61,8 +61,8 @@ The data is already loaded inside each file, so there is nothing else to set up.
 The data comes from the ALX Data Analytics Program's Maji Ndogo project. It is fictional and was provided for learning.
 
 ## Related work
-- SQL analysis of the same database: [link to your SQL repo]
+- SQL analysis of the same database: [https://github.com/blopcop254/maji-ndogo]
 
 ## Author
 **Dickens**, ALX Data Analytics Program, Kenya
-- LinkedIn: [your link]
+- LinkedIn: [https://www.linkedin.com/in/dickens-oduor-9928453b2/]
